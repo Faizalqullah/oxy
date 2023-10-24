@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #93b1a6;
+}
+
+h2,
+p {
+  color: white;
+}
+
+#task {
+  background-color: #5c8374;
+}
+
+.card-text {
+  color: black;
+}
+
+section {
+  padding-top: 5rem;
+}
